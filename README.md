@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Age calculator app solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -14,20 +14,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Deploy on Vercel](#deploy-on-vercel)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ### Screenshot
 
-![](./Qr-Code-Component.jpeg)
+![](./Age-Calculator-App.jpeg)
 
 ### Links
 
-- Solution URL: [The Solution](https://www.frontendmentor.io/solutions/responsive-qrcode-component-with-nextjs-oD5f-gQ0cs)
-- Live Site URL: [The Site](https://keezy-qr-code.vercel.app/)
+- Solution URL: [The Solution](https://www.frontendmentor.io/solutions/keezys-responsive-age-calulator-app-with-nextjs-13-and-tailwindcss-ijBrfdu3I0)
+- Live Site URL: [The Site](https://keezy-age-calculator.vercel.app/)
 
 ## My process
 
@@ -45,7 +43,8 @@ I am also new to Typescript
 
 ### Useful resources
 
-- [Nextjs 13 Beta Static Icon](https://beta.nextjs.org/docs/api-reference/metadata#static-icon) - This helped me to figure out how to insert my personal Icon into the project
+- [Nextjs 13 Beta Local Fonts](https://beta.nextjs.org/docs/optimizing/fonts#local-fonts) - This helped me to figure out how to insert my local fonts into the project
+- [Number Counting Animation](https://youtu.be/FaMW-CtExrs) - This helped me with my beautiful number counting animations
 
 ## Deploy on Vercel
 
