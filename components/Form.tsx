@@ -146,7 +146,7 @@ const Form = () => {
   };
 
   return (
-    <div className="p-4 pt-12 md:pt-8 md:p-8 pr-4 md:pr-16 bg-white rounded-2xl md:rounded-3xl rounded-br-[8rem] md:rounded-br-[10rem] mx-auto my-auto w-full md:w-fit">
+    <div className="p-4 pt-12 md:pt-8 md:p-8 pr-4 md:pr-16 bg-white shadow-2xl rounded-2xl md:rounded-3xl rounded-br-[8rem] md:rounded-br-[10rem] mx-auto my-auto w-full md:w-fit">
       <form
         onSubmit={handleSubmit}
         className="flex justify-evenly md:justify-start items-start gap-3 md:gap-6 mb-4 pb-16 md:pb-10 relative border-b border-b-neutral-200 w-full md:w-[37rem]"
