@@ -1,5 +1,6 @@
 import "./globals.css";
 import localFont from "next/font/local";
+import { Analytics } from "@vercel/analytics/react";
 
 const pB = localFont({
   src: "../assets/fonts/Poppins-Bold.ttf",
@@ -41,7 +42,10 @@ export default function RootLayout({
       lang="en"
       className={`${pB.variable} ${pBI.variable} ${pEB.variable} ${pEBI.variable} ${pI.variable} ${pR.variable}`}
     >
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
